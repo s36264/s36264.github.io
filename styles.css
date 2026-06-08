@@ -1,0 +1,93 @@
+body{
+    background-color: dodgerblue;
+    color: white;
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+    padding:10px;
+    text-align: center;
+    }
+    .blue-text-button {
+    background-color: white;
+    color: dodgerblue;
+    border-color: dodgerblue;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+
+  .blue-text-button:hover {
+    background-color: dodgerblue;
+    color: white;
+    border: 1x solid white;
+  }
+  body {
+        margin: 0px;
+        height: 100vh;
+        background: url('https://static.wikitide.net/bluearchivewiki/b/b3/BG_CS_PV3_02.jpg')
+        center center / cover no-repeat fixed;
+       }
+       .container {
+        display: flex;
+        gap: 10px;
+    }
+    body {
+        margin: 0px;
+        height: 100vh;
+        background: url('https://static.wikitide.net/bluearchivewiki/6/6c/BG_GehennaCampus_Night.jpg')
+        center center / cover no-repeat fixed;
+       }
+       body {
+        margin: 0px;
+        height: 100vh;
+        background: url('https://static.wikitide.net/bluearchivewiki/b/bc/BG_CS_PR_01.jpg')
+        center center / cover no-repeat fixed;
+       }
+    .container {
+        display: flex;
+        gap: 10px;
+    }
+
+    .box {
+        flex: 1;
+        margin: 50px;
+        padding: 10;
+        text-align: center;
+        border: none;
+        background-color: rgb(30, 144, 255, 0.65);
+        color: white;
+        font-family: 'Courier New' Courier, monospace;
+    }
+    .container {
+        display: flex;
+        gap: 10px;
+    }
+
+    .box {
+        flex: 1;
+        margin: 20px;
+        padding: 10px;
+        border: none;
+        text-align: center;
+        background-color: rgba(214, 30, 255, 0.65);
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .container {
+        display: flex;
+        gap: 10px;
+    }
+
+    .box {
+        flex: 1;
+        margin: 20px;
+        padding: 10;
+        border: none;
+        text-align: center;
+        background-color: rgba(255, 140, 0, 0.65);
+        color: white;
+        font-size: 25px;
+        font-family: 'Courier New' Courier, monospace;
+    }
+    
